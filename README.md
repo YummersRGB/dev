@@ -1,4 +1,4 @@
-# Wii Dev Homebrew Game
+# Wii Dev
 
 This repository contains a complete multi-file C project for a custom Nintendo Wii homebrew game, along with a modern, responsive web page for distributing the download. 
 
